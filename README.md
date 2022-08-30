@@ -1,3 +1,3 @@
 #Description
 
-This a Game quiz application developed by React!
+This a Game quiz application developed by React.
